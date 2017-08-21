@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<?php $pagetitle="Web290 Labs"?>
+<?php $pagetitle="Web234 Labs"?>
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head>
 
@@ -31,7 +31,7 @@
      <li><a href="#">Week 12</a></li>
     </div>	
  </ul> 
- <p id="footer">Copyright &copy; 2011 <?php echo $pagetitle?> By Chuck Konkol</p>
+ <p id="footer">Copyright &copy; 2017 <?php echo $pagetitle?> By Chuck Konkol</p>
  
  </div>
 </body>
